@@ -21,6 +21,8 @@ public class Main {
 
         System.out.println(total);
 
+        var employeename = "edwin gallego: ";
+        System.out.println(employeename + total);
 
 
     }
