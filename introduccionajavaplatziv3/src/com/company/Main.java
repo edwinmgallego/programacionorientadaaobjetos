@@ -9,5 +9,11 @@ public class Main {
         //asiganamos  valor  a la variable
         speed=10;
         System.out.println(speed);
+        int  salary = 1000;
+        String employeename ="pacho";
+        System.out.println(employeename);
+
+
+
     }
 }
