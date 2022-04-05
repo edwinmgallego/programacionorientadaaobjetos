@@ -17,5 +17,12 @@ public class updatingVariables {
         salary = salary+( 30*2) -45;
 
         System.out.println(salary);
+
+        //actuaalizando cadenas d e texto
+
+        String employeename = "edwin ";
+        employeename= employeename +"gallego brown";
+
+        System.out.println(employeename);
     }
 }
